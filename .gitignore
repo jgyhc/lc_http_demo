@@ -30,6 +30,11 @@
 .pub-cache/
 .pub/
 /build/
+.android/
+.ios/
+.flutter-plugins
+.flutter-plugins-dependencies
+.history/
 
 # Web related
 lib/generated_plugin_registrant.dart
